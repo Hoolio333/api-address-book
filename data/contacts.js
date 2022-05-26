@@ -1,6 +1,6 @@
 const contacts = [
   {
-    id: 1,
+    id: "1",
     firstName: "John",
     lastName: "Carmack",
     street: "10 Keen Street",
@@ -11,7 +11,7 @@ const contacts = [
     twitter: "https://twitter.com/booleanuk",
   },
   {
-    id: 2,
+    id: "2",
     firstName: "Grace",
     lastName: "Hopper",
     street: "32 Deebug Road",
